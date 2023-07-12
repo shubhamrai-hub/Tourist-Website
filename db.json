@@ -1,0 +1,113 @@
+{
+  "posts": [
+    {
+      "teamName": "SeaL Esports",
+      "leaderIGN": "Rocky",
+      "leaderId": 101,
+      "whatappNo": 9644418800,
+      "Player02IGN": "Navi",
+      "Player02Id": 102,
+      "Player03IGN": "Tyagi",
+      "Player03Id": 103,
+      "Player04IGN": "Pihu",
+      "Player04Id": 104,
+      "ExtraPlayer01IGN": "PinkMan",
+      "ExtraPlayer01Id": 105,
+      "ExtraPlayer02IGN": "Devil",
+      "ExtraPlayer02Id": 106,
+      "id": 1
+    }
+  ],
+  "sign-up": [
+    {
+      "name": "Shubham Rai ",
+      "dob": "1996-02-28",
+      "email": "shubhamrai691@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Shubham Rai ",
+      "dob": "56556-05-06",
+      "email": "shubhamrai691@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "Shubham Rai ",
+      "dob": "1996-07-23",
+      "email": "shubhamrai691@gmail.com",
+      "password": "Rai@9993",
+      "id": 8
+    },
+    {
+      "name": "Shubham Rai ",
+      "dob": "1996-02-28",
+      "email": "shubhamrai691@gmail.com",
+      "password": "Prishu@1234",
+      "id": 9
+    },
+    {
+      "name": "Shubham Rai ",
+      "dob": "1995-02-08",
+      "email": "shubhamrai691@gmail.com",
+      "password": "Rai@9993",
+      "id": 10
+    },
+    {
+      "name": "Shubham Rai ",
+      "dob": "1996-02-05",
+      "email": "shubhamrai691@gmail.com",
+      "password": "Rai@9993",
+      "id": 11
+    },
+    {
+      "name": "Shubham Rai ",
+      "dob": "2021-12-02",
+      "email": "shubhamrai691@gmail.com",
+      "password": "Rai@9993",
+      "id": 12
+    },
+    {
+      "name": "Surya",
+      "dob": "2021-12-21",
+      "email": "suryakant.bharti@gmail.com",
+      "password": "Abc@9080",
+      "id": 13
+    },
+    {
+      "name": "Shubham Rai ",
+      "dob": "2021-12-30",
+      "email": "shubhamrai691@gmail.com",
+      "password": "Rai@9993",
+      "id": 14
+    },
+    {
+      "name": "Shubham Rai",
+      "dob": "2022-03-16",
+      "email": "shubham@swiftant.com",
+      "password": "Rai@9993",
+      "id": 15
+    },
+    {
+      "name": "Rocky",
+      "dob": "2022-04-07",
+      "email": "shubham@abc.com",
+      "password": "Abc@12345",
+      "id": 16
+    }
+  ],
+  "admin": [
+    {
+      "name": "Shubham Rai ",
+      "dob": "1996-02-28",
+      "email": "shubhamrai691@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
